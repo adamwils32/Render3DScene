@@ -1,4 +1,4 @@
-Assignment 4 - OpenGL Textured Mesh Renderer README
+OpenGL Textured Mesh Renderer README
 
 Overview:
 This Python project demonstrates a simple OpenGL application capable of rendering 3D meshes with textures. It leverages
@@ -6,8 +6,8 @@ PyOpenGL for interfacing with the OpenGL API, OpenCV for texture loading, and Nu
 operations. The primary objective is to illustrate fundamental concepts of 3D graphics programming, such as handling
 vertices and textures, shader programming, and camera manipulation.
 
-Notes for Marker(s):
-- In main.py, .ply and .bmp files are assumed to be stored in a folder called Assignment4Assets for cleaner project
+Notes for User(s):
+- In main.py, .ply and .bmp files are assumed to be stored in a folder called RenderSceneAssets for cleaner project
 structure. This is why the assignment was submitted as a .zip instead of just submitting the relevant files.
 
 OpenGL Setup:
